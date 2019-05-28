@@ -1,4 +1,3 @@
-import csv
 import time
 from googlesearch import search
 
